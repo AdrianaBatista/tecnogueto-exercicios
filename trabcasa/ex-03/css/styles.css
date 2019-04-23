@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+   margin-bottom: 30px;
+}
+
+hr {
+    margin-bottom: 30px;
+
+}
+
+.cardapio {
+    margin-bottom: 30px;
+}
+
+.text-blue {
+    color: blue;
+    
+}
+
+p {
+    font-size: 12px;
+}
+
+.text-green {
+    color: green;
+
+}
+
+
+.text-red {
+    color: red;
+    font-size: 30px;
+
+}
+
+
+.title-sub, 
+.title-lower {
+    color: blue;
+}
+
+.title-sub {
+   font-size: 30px; 
+   text-decoration: underline; 
+   text-transform: uppercase;
+}
+
+.title-lower {
+   font-size: 20px;
+   
+}
+
+.font-big {
+    font-size: 24px;
+   
+}
